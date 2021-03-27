@@ -2,7 +2,10 @@ package pbofs112b.pkg2022428916.latihan55.handphone;
 
 /**
  *
- * @author Kus Andi Priyono
+ * @author 
+ * Nama     : Kus Andi Priyono
+ * Kelas    : FS112B
+ * NIM      : 2022428916
  */
 public class Handphone {
     protected String manufacture, operatingSystem, model;
